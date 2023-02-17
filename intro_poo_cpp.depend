@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676653906 source:/home/adelmo/estudo_dev_mini/intro_poo_cpp/main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+
