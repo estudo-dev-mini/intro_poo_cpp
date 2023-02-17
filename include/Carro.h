@@ -7,6 +7,7 @@ using namespace std;
 class Carro
 {
     public:
+        static int pneus; // atributo da classe
         Carro(); // Construtor padrão
         Carro(string marca, int ano); // Construtor
         ~Carro(); // Destrutor

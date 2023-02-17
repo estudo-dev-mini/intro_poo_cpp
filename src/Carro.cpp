@@ -34,3 +34,5 @@ Carro::Carro(string marca, int ano) {
 Carro::~Carro() {
     cout << "Carro foi destruido!" << endl;
 }
+
+int Carro::pneus = 4;

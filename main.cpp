@@ -17,9 +17,19 @@ int main()
 
     cout << c1.getMarca() << endl;
     cout << c1.getAno() << endl;
+    cout << c1.pneus << endl;
 
     cout << c2.getMarca() << endl;
     cout << c2.getAno() << endl;
+    cout << c2.pneus << endl;
 
+    c1.pneus = 2; // trocou aqui e ira refletir em todos os objetos
+    cout << c1.getMarca() << endl;
+    cout << c1.getAno() << endl;
+    cout << c1.pneus << endl;
+
+    cout << c2.getMarca() << endl;
+    cout << c2.getAno() << endl;
+    cout << c2.pneus << endl;
     return 0;
 }

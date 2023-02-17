@@ -5,10 +5,11 @@
 	<cstdlib>
 	"Carro.h"
 
-1676656050 source:/home/adelmo/estudo_dev_mini/intro_poo_cpp/src/Carro.cpp
+1676656874 source:/home/adelmo/estudo_dev_mini/intro_poo_cpp/src/Carro.cpp
 	"Carro.h"
 	<string>
+	<iostream>
 
-1676656413 /home/adelmo/estudo_dev_mini/intro_poo_cpp/include/Carro.h
+1676657068 /home/adelmo/estudo_dev_mini/intro_poo_cpp/include/Carro.h
 	<string>
 
