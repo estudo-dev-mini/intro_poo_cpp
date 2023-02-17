@@ -1,6 +1,13 @@
 # depslib dependency file v1.0
-1676653906 source:/home/adelmo/estudo_dev_mini/intro_poo_cpp/main.cpp
+1676654290 source:/home/adelmo/estudo_dev_mini/intro_poo_cpp/main.cpp
 	<iostream>
 	<string>
 	<cstdlib>
+
+1676655299 source:/home/adelmo/estudo_dev_mini/intro_poo_cpp/src/Carro.cpp
+	"Carro.h"
+	<string>
+
+1676654995 /home/adelmo/estudo_dev_mini/intro_poo_cpp/include/Carro.h
+	<string>
 
