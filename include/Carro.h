@@ -7,6 +7,9 @@ using namespace std;
 class Carro
 {
     public:
+        Carro(); // Construtor padrão
+        Carro(string marca, int ano); // Construtor
+        ~Carro(); // Destrutor
         void setMarca(string marca);
         string getMarca();
         void setAno(int ano);
